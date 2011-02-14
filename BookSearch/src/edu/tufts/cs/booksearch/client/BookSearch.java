@@ -1,8 +1,9 @@
 /*
  * Book search using Google Books API
  * Written by Ming Chow
- * Last updated on February 6, 20101
+ * Last updated on February 6, 2011
  */
+
 package edu.tufts.cs.booksearch.client;
 
 import com.google.gwt.core.client.EntryPoint;
